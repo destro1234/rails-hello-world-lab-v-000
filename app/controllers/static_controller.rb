@@ -1,4 +1,4 @@
 class StaticController < ApplicationController
 
-  render '/hello_world'
+  render 'hello_world'
 end
